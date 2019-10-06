@@ -22,7 +22,11 @@ I will aim to have all work, from introduction to conclusion finished by Friday 
 Breakdown of marks: Describe (20%), Infer (20%), Predict (60%)
 
 Week 1 - Describe
+
 Week 2 - Infer
+
 Weeks 3,4 and 5 - Predict
+
 Week 6 - Introduction, Conclusion, References, Tidy up and README
+
 Week 7 - Extras or deeper analysis
