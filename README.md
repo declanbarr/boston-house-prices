@@ -11,7 +11,30 @@ summary of project
 
 ### How to run the Jupyter Notebook
 
-### Project plan
+### Project plan (UPDATED)
+
+New due date is Friday 13th December 2019. From today (Saturday 23rd November 2019) there are ~3 weeks remaining.
+
+Describe, Infer and Predict are completed but these need to be expanded on and tidied up. Introduction, conclusion, references and README are yet to be completed.
+
+
+Saturday 23rd Nov - Friday 29th Nov:
+* Describe
+* Infer
+* Predict
+
+Saturday 30th Nov - Friday 6th Dec:
+* Introduction
+* Conclusion 
+* References
+* README
+
+Saturday 7th Dec - Friday 13th Dec:
+* Additional Analyses
+
+
+
+### Project plan (OLD)
 
 Project is due on Friday 29th November 2019 which is 7 weeks from next Friday (written on Sunday 6th Oct 2019)
 
